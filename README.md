@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Firewall-Security-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Architecture-Hub%20%26%20Spoke-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AIM-Cybersecurity%20Engineer-blue?style=for-the-badge">
 </p>
 
 <h1 align="center">🔥 Enterprise Azure Firewall & Hub-Spoke Architecture (AZ-500)</h1>
@@ -182,7 +183,7 @@ This architecture demonstrates:
 Cloud Security | Azure Security Engineer | AZ-500 Focused  
 
 🔗 GitHub: https://github.com/AmalUBasnayake  
-🔗 LinkedIn: https://www.linkedin.com/in/amal-udayanga-basnayake-72315b2b9/  
+🔗 LinkedIn: https://www.linkedin.com/in/amal-udayanga-basnayake 
 🔗 Medium: https://medium.com/@amalubasnayake  
 
 ---
