@@ -70,7 +70,7 @@ Secure RDP Access Established
 <summary><strong>1️⃣ VNet Peering Configuration</strong></summary>
 
 <p align="center">
-  <img src="screenshots/1-vnet-peering.png" width="850">
+  <img src="screenshots/peering.png" width="850">
 </p>
 
 - Hub-to-Spoke bidirectional peering
