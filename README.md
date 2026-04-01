@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/firewall.jpg" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Firewall-Security-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Architecture-Hub%20%26%20Spoke-orange?style=for-the-badge">
